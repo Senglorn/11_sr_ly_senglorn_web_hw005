@@ -29,7 +29,7 @@ export default function BodyComponent({ dataTrip, setDataTrip }) {
       {/* Body content */}
       <div className="flex justify-between px-5 my-16">
         <div>
-          <h1 className="capitalize font-bold text-3xl text-red-200">good night my man!</h1>
+          <h1 className="capitalize font-bold text-3xl text-red-200">good night team!</h1>
         </div>
         <div>
           <div>
